@@ -304,6 +304,8 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
+    <string name="busy">Beschäftigt</string>
+    <string name="free">Verfügbar</string>
 
     <!--
         Haven't found some strings? There's more at

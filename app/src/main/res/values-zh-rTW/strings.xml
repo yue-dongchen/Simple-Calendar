@@ -303,6 +303,8 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
+    <string name="busy">繁忙</string>
+    <string name="free">空閒</string>
 
     <!--
         Haven't found some strings? There's more at

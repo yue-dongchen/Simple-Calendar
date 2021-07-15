@@ -113,6 +113,8 @@
     <string name="not_going">Not going</string>
     <string name="maybe_going">Maybe going</string>
     <string name="invited">Invited</string>
+    <string name="busy">Busy</string>
+    <string name="free">Free</string>
 
     <!-- Time zones -->
     <string name="enter_a_country">Enter a country or time zone</string>
